@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Apple()
+comment0.text=\r\n\ This\ is\ a\ constrctor\ for\ pizza.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Leaf\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ falling()
+comment2.text=\r\n\ falling\ -\ simulate\ the\ pizza\ falling\ to\ the\ ground.\ \ Slowly\ rotate,\ change\r\n\ course\ just\ a\ little\ horizontally\ each\ time\ through\r\n
+comment3.params=
+comment3.target=void\ checkForMiss()
+comment3.text=\r\n\ checkForMiss\ -\ if\ the\ leaf\ hits\ the\ ground,\ it\ means\ the\ Catcher\r\n\ did\ not\ catch\ the\ leaf.\ Remove\ the\ leaf\ object\ and\ do\ whatever\ you\ want\ \r\n
+numComments=4
