@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=nStep
+comment0.target=void\ walkLeft(int)
+comment1.params=nStep
+comment1.target=void\ walkRight(int)
+comment2.params=nStep\ direction\ img1\ img2
+comment2.target=void\ walk(int,\ int,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=void\ playPiano()
+comment4.params=starting
+comment4.target=void\ spinAwayToPlay(boolean)
+comment5.params=howMany
+comment5.target=void\ twoPlayMoves(int)
+comment6.params=
+comment6.target=void\ act()
+numComments=7
